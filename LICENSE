@@ -1,0 +1,17 @@
+Copyright (c) 2026 <OWNER — 推送前请替换为你或 YZi Labs 的署名>
+
+All rights reserved.
+
+This repository contains original research methodology, prompts, reference
+specifications, and software. No license to copy, modify, distribute, or use
+this material is granted except with the express written permission of the
+copyright holder.
+
+Excerpts of public U.S. SEC filings included under `workspace/` remain the
+property of their respective filing entities and are reproduced here for
+research reproducibility only.
+
+NOTE: If you intend to allow open reuse, replace this file with a standard
+open-source license (e.g. MIT, Apache-2.0) BEFORE making the repository public.
+"All rights reserved" is the conservative default and was chosen because this
+repository is proprietary research methodology.

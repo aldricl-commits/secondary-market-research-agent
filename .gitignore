@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+
+# 第三方研报范例库——版权不属于本仓库，不得提交
+Apeiron Write-up/
+
+# 本地临时/草稿
+scratch/
+*.tmp
+
+# 研究产出留在本地：成稿报告与估值 case 内嵌具体标的的投资结论，不公开
+reports/
+workspace/*
+!workspace/README.md
